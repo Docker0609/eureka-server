@@ -22,6 +22,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-eureka-server</artifactId>
+			<version>1.5.2.RELEASE</version>
 		</dependency>
 		<!-- spring boot test -->
 		<dependency>
